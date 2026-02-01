@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Technical Innovator in Fusion Diagnostics, Advanced Sensors & Decentralised AI Systems<br><br>Dr. Reza Mirfayzi has developed a broad portfolio of advanced technologies spanning nuclear fusion diagnostics, particle-based sensing, AI-driven software platforms, and decentralised computation systems. His technical contributions include:<br><br>• Fusion & Plasma Diagnostics<br>Designed and deployed next-generation neutron measurement systems, including diamond-based detectors, neutron ToF platforms, FPGA/RFSoC real-time DAQ systems, and multi-channel diagnostic architectures implemented on devices such as ZCU208. Built compact x-ray pinch sources, shock diagnostics, and contributed to ST40 spherical tokamak development.<br><br>• High-Energy Density Science & Laser-Plasma Systems<br>Led and co-developed experiments in the UK, Japan, and the USA on ultra-intense laser interactions, nuclear photonics, fast ignition, direct-drive ICF, and secondary particle sources. Delivered over forty scientific publications and a patented diagnostic method.<br><br>• Advanced Sensor Engineering<br>Developed custom detection systems including diamond neutron cameras, muon/cosmic-ray phone-sensor pipelines, RFSoC-based fast data acquisition hardware, and proprietary algorithms for signal extraction, pulse identification, and radiation event classification.<br>AI & Software Ecosystem (Daolytica)<br>Built a suite of AI-powered SaaS and desktop products such as:<br>– Bank2Excel (PDF-to-Excel document intelligence)<br>– TrueValue (AI property valuation engine)<br>– Panther (local + API hybrid ML IDE)<br>– ScreenPick (movie-mood recommendation app)<br>– Cosmic Randomizer (cosmic-ray RNG pipeline)<br>Engineered full-stack solutions using Next.js, Tauri/Rust, Supabase, blockchain rails, and multi-agent architectures.<br><br>• Decentralised Data & Blockchain Systems<br>Designed token-metered compute systems (TVEC), hybrid private/public Besu networks, and Web3-inspired AI-agent frameworks where local computation is primary and cloud is optional. Built privacy-first architectures with distributed learning and minimal centralised dependency.<br><br>• Hardware–Software Integrated R&D<br>Created custom electronics, detector packaging, micro-lab systems, beamline diagnostic hardware, and automated experimental pipelines combining Python, RFSoC firmware, FPGA logic, and high-speed DAQ architectures.<br>
 
-<!--
-**daolytica/daolytica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/srmirfayzi) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Daolytica &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Daolytica &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daolytica &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Daolytica &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
